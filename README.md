@@ -64,7 +64,7 @@ This model is built for educational and research purposes only. It does not cons
 All projections are based on publicly available information and  personal assumptions — do your own due diligence.
 
 
-👤 **Author- [Sanidhya Ekhar](www.linkedin.com/in/sanidhya-ekhar)**
+👤 **Author- [Sanidhya Ekhar](https://www.linkedin.com/in/sanidhya-ekhar/)**
 
 
 
