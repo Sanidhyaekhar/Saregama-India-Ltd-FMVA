@@ -1,5 +1,4 @@
-# Saregama-India-Ltd-FMVA
-Saregama India Ltd — Financial Model (FMVA)
+# Saregama India Ltd. Financial Modelling & Valuation
 
 A full integrated financial model for Saregama India Ltd (NSE: SAREGAMA), covering  historical financials from FY2021-22 to FY2024-25 and projections upto FY2029-30.
 All figures are in Indian Rupees (₹ Lakhs) unless stated otherwise.
@@ -10,11 +9,11 @@ All figures are in Indian Rupees (₹ Lakhs) unless stated otherwise.
 |---|---|---|
 | 1 | Navigation Pane | Quick links to all sheets in the model |
 | 2 | Valuation | DCF-based intrinsic value per share |
-| 3 | Scenario Analysis | Bull / Base / Bear case sensitivity on key assumptions |
+| 3 | Scenario Analysis | Best / Base / Worst case sensitivity on key assumptions |
 | 4 | Assumption Sheet | Central hub for all revenue, cost, and macro assumptions |
 | 5 | Balance Sheet | Assets, liabilities, and equity |
-| 6 | IS | Income Statement — historical actuals + projections |
-| 7 | CFS | Cash Flow Statement (Operating / Investing / Financing) |
+| 6 | Income Statement | Income Statement — historical actuals + projections |
+| 7 | Cash Flow Statement | Cash Flow Statement (Operating / Investing / Financing) |
 | 8 | Revenue Model | Segment-wise revenue build-up from assumptions |
 | 9 | Cost Model | Cost of music business and operating expense breakdown |
 | 10 | Capex Schedule | Fixed asset additions and capital expenditure |
@@ -35,6 +34,14 @@ All figures are in Indian Rupees (₹ Lakhs) unless stated otherwise.
 1. Methodology: Discounted Cash Flow (DCF)
 2. Output: Intrinsic Value per Share
 3. Scenario analysis covers sensitivity to revenue growth and other assumptions
+
+## How to Use
+1. Open the Excel file.
+2. Navigate to the “Scenario Analysis” sheet.
+3. Select the desired scenario (Best/Base/Worst)
+4. Review outputs in:
+   Valuation sheet & 
+   Financial statements
 
 ## Thesis 
 1. Saregama's core strategy revolves around acquiring music rights for a period of 60 years, with a strict internal discipline of only investing in music that has a payback period of 5 years or less. This creates a highly predictable, long-duration cash flow stream that behaves almost like an annuity.
