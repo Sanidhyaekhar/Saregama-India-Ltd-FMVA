@@ -6,21 +6,23 @@ All figures are in Indian Rupees (₹ Lakhs) unless stated otherwise.
 
 
 ## Model Structure
-1. Navigation Pane - Quick links to all sheets
-2. Valuation - DCF-based intrinsic value per share
-3. Scenario Analysis - Best / Base / Worst case sensitivity on key assumptions 
-4. Assumption Sheet - Central hub for all revenue, cost, and macro assumptions
-5. Balance Sheet - Assets, liabilities, and equity
-6. IS - Income Statement — historical + projected
-7. CFS - Cash Flow Statement (Operating / Investing / Financing)
-8. Revenue Model - Segment-wise revenue build-up
-9. Cost Model - Cost of music business and operating expense breakdown
-10. Capex Schedule - Fixed asset additions and capital expenditure
-11. Depreciation & Finance Cost - D&A schedule and interest cost build
-12. WC Schedule - Working capital movements
-13. Lease Schedule - Right-of-use assets and lease liabilities (As per Ind AS 116)
-14. Other Income Schedule - Non-operating income breakdown
-15. Notes - Model notes, sources, and key judgments 
+| # | Sheet | Description |
+|---|---|---|
+| 1 | Navigation Pane | Quick links to all sheets in the model |
+| 2 | Valuation | DCF-based intrinsic value per share |
+| 3 | Scenario Analysis | Bull / Base / Bear case sensitivity on key assumptions |
+| 4 | Assumption Sheet | Central hub for all revenue, cost, and macro assumptions |
+| 5 | Balance Sheet | Assets, liabilities, and equity |
+| 6 | IS | Income Statement — historical actuals + projections |
+| 7 | CFS | Cash Flow Statement (Operating / Investing / Financing) |
+| 8 | Revenue Model | Segment-wise revenue build-up from assumptions |
+| 9 | Cost Model | Cost of music business and operating expense breakdown |
+| 10 | Capex Schedule | Fixed asset additions and capital expenditure |
+| 11 | Depreciation & Finance Cost | D&A schedule and interest cost build |
+| 12 | WC Schedule | Working capital movements |
+| 13 | Lease Schedule | Right-of-use assets and lease liabilities (Ind AS 116) |
+| 14 | Other Income Schedule | Non-operating income breakdown |
+| 15 | Notes | Model notes, sources, and key judgments |
  
 
 
@@ -55,7 +57,7 @@ This model is built for educational and research purposes only. It does not cons
 All projections are based on publicly available information and  personal assumptions — do your own due diligence.
 
 
-👤 **Author- Sanidhya Ekhar**
+👤 **Author- [Sanidhya Ekhar](www.linkedin.com/in/sanidhya-ekhar)**
 
 
 
